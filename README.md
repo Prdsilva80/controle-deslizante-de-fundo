@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-![Acesse]
+ 🔗 ![Clique aqui para acessar](https://prdsilva80.github.io/controle-deslizante-de-fundo/)
 
 # 🛠️ Ferramentas Utilizadas
 
