@@ -6,7 +6,7 @@
 
 # 🛠️ Ferramentas Utilizadas
 
-![preview](./.github/icons8-html-5.svg) ![preview](./.github/icons8-css3.svg) ![preview](./.github/icons8-javascript.svg)![preview](./.github/icons8-git.svg) ![preview](./.github/icons8-github.svg)
+![preview](./.github/html-5.svg) ![preview](./.github/css3.svg) ![preview](./.github/javascript.svg)![preview](./.github/git.svg) ![preview](./.github/github.svg)
 
 # 👨‍🎓 O que aprendi
 
